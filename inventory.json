@@ -1,0 +1,154 @@
+{
+  "store": [
+    {
+      "productId": "bs_auction_1",
+      "productName": "Pants",
+      "productBasePrice": "841.00"
+    },
+    {
+      "productId": "bs_auction_2",
+      "productName": "Fish",
+      "productBasePrice": "820.00"
+    },
+    {
+      "productId": "bs_auction_3",
+      "productName": "Hat",
+      "productBasePrice": "207.00"
+    },
+    {
+      "productId": "bs_auction_4",
+      "productName": "Pants",
+      "productBasePrice": "683.00"
+    },
+    {
+      "productId": "bs_auction_5",
+      "productName": "Chips",
+      "productBasePrice": "366.00"
+    },
+    {
+      "productId": "bs_auction_6",
+      "productName": "Ball",
+      "productBasePrice": "375.00"
+    },
+    {
+      "productId": "bs_auction_7",
+      "productName": "Pizza",
+      "productBasePrice": "432.00"
+    },
+    {
+      "productId": "bs_auction_8",
+      "productName": "Hat",
+      "productBasePrice": "694.00"
+    },
+    {
+      "productId": "bs_auction_9",
+      "productName": "Chips",
+      "productBasePrice": "324.00"
+    },
+    {
+      "productId": "bs_auction_10",
+      "productName": "Bacon",
+      "productBasePrice": "77.00"
+    },
+    {
+      "productId": "bs_auction_11",
+      "productName": "Shoes",
+      "productBasePrice": "325.00"
+    },
+    {
+      "productId": "bs_auction_12",
+      "productName": "Keyboard",
+      "productBasePrice": "871.00"
+    },
+    {
+      "productId": "bs_auction_13",
+      "productName": "Chair",
+      "productBasePrice": "895.00"
+    },
+    {
+      "productId": "bs_auction_14",
+      "productName": "Table",
+      "productBasePrice": "326.00"
+    },
+    {
+      "productId": "bs_auction_15",
+      "productName": "Pants",
+      "productBasePrice": "252.00"
+    },
+    {
+      "productId": "bs_auction_16",
+      "productName": "Hat",
+      "productBasePrice": "512.00"
+    },
+    {
+      "productId": "bs_auction_17",
+      "productName": "Towels",
+      "productBasePrice": "959.00"
+    },
+    {
+      "productId": "bs_auction_18",
+      "productName": "Pants",
+      "productBasePrice": "448.00"
+    },
+    {
+      "productId": "bs_auction_19",
+      "productName": "Car",
+      "productBasePrice": "979.00"
+    },
+    {
+      "productId": "bs_auction_20",
+      "productName": "Chips",
+      "productBasePrice": "674.00"
+    },
+    {
+      "productId": "bs_auction_21",
+      "productName": "Tuna",
+      "productBasePrice": "287.00"
+    },
+    {
+      "productId": "bs_auction_22",
+      "productName": "Computer",
+      "productBasePrice": "41.00"
+    },
+    {
+      "productId": "bs_auction_23",
+      "productName": "Gloves",
+      "productBasePrice": "463.00"
+    },
+    {
+      "productId": "bs_auction_24",
+      "productName": "Ball",
+      "productBasePrice": "771.00"
+    },
+    {
+      "productId": "bs_auction_25",
+      "productName": "Computer",
+      "productBasePrice": "9.00"
+    },
+    {
+      "productId": "bs_auction_26",
+      "productName": "Gloves",
+      "productBasePrice": "323.00"
+    },
+    {
+      "productId": "bs_auction_27",
+      "productName": "Bike",
+      "productBasePrice": "551.00"
+    },
+    {
+      "productId": "bs_auction_28",
+      "productName": "Hat",
+      "productBasePrice": "968.00"
+    },
+    {
+      "productId": "bs_auction_29",
+      "productName": "Table",
+      "productBasePrice": "863.00"
+    },
+    {
+      "productId": "bs_auction_30",
+      "productName": "Soap",
+      "productBasePrice": "503.00"
+    }
+  ]
+}
